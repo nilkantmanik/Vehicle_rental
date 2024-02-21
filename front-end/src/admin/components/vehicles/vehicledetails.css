@@ -1,0 +1,45 @@
+/* VehicleDetails.css */
+
+.vehicle-details-container {
+    height: 100vh;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: aliceblue;
+    border-radius: 12px;
+  }
+  
+  .vehicle-details-title {
+    font-weight: 600;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .vehicle-details-content {
+    margin-top: 5px;
+  }
+  
+  .vehicle-details-image {
+    width: 100%;
+    height: 30%;
+    margin-top: 15px;
+    border-radius: 4px;
+  }
+  
+
+  .updatebtn {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 4px;
+    background-color: rgb(80, 225, 80);
+  }
+
+  .deletebtn{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 4px;
+    background-color: rgb(241, 112, 112);
+  }

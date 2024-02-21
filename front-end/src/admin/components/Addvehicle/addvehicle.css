@@ -1,0 +1,83 @@
+/* addvehicle.css */
+
+.formdiv {
+    width: 55rem;
+    border-radius: 7px;
+    border: 1px solid black;
+    margin: 10px auto;
+    padding: 20px;
+    /* background-color: ; */
+  }
+  
+  .custom-h3 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    display: none;
+    /* display: inline; */
+    width: 10rem;
+  }
+
+  .inputdiv{
+    padding: 10px;
+  }
+  
+  input {
+    margin-bottom: 16px;
+    padding: 8px;
+    width: 80%;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 8px;
+  }
+
+  input::placeholder {
+    padding-left: 5px; /* Adjust the value as needed */
+  }
+
+
+  .submitdiv {
+    position: relative;
+    left: 14rem;
+    width: 25rem;
+    padding: 10px;
+    background-color: #45a049;
+    height: 45px;
+    border-radius: 8px;
+  }
+  
+  .submitbutton {
+    /* padding: 10px; */
+    background-color: #45a049;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    
+  }
+
+
+  
+  /* .submitbutton:hover {
+    background-color: #45a049;
+  } */
+  
+
+
+
+
+ 
+
+  input {
+    width: 100%; /* Set the width to 100% of the parent container */
+    padding: 10px; /* Adjust the padding as needed */
+    border: 1px solid #ccc; /* Add border styles as needed */
+    border-radius: 5px; /* Adjust border-radius as needed */
+    height: 35px;
+  }
+  
+  

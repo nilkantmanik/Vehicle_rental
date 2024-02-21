@@ -1,0 +1,18 @@
+/* Adminpage.css */
+
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-color: #766e80;
+
+  }
+  
+  #adminpage-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:85vh; /* Set the container height to cover the whole viewport */
+    font-size: 8rem; /* Set font size to cover the whole page */
+     /* Set the background color to white */
+  }
+  
